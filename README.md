@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img  src="https://github.com/DevAnaBeatriz/PRJ_NumericalScoreboard/blob/main/prjgif.gif"  />
+  <img  src="https://github.com/DevAnaBeatriz/PRJ_NumericalScoreboard/blob/main/gifdoprj.gif"  />
 </div>
 
 
